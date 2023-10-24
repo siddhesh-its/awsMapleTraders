@@ -12,3 +12,14 @@
 - In the "Properties" section, enable "Static website hosting."
 - Upload your website files to the bucket.
 - Set the bucket permissions to allow public access.
+
+### Skills:
+- AWS Cloud
+- JavaScript
+
+### Benifits:
+- Streamlined website management
+- Less cost as compared to legacy solutions.
+
+### Further improvement:
+- Can purchase a custome domain and use it to host the website using AWS Route 53
